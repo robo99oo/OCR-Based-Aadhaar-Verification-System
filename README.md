@@ -108,7 +108,7 @@ Upload Aadhaar image file.
 
 ## Project Workflow Diagram
 
-<img width="1000" height="956" alt="image" src="https://github.com/user-attachments/assets/d5c75d34-b72a-4e1c-9cd0-f545bc92c5b9" />
+<img width="1024" height="1000" alt="image" src="https://github.com/user-attachments/assets/d5c75d34-b72a-4e1c-9cd0-f545bc92c5b9" />
 
 
 ---
